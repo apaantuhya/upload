@@ -1,0 +1,183 @@
+[
+    {
+        "drmserver": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh",
+        "gambar": "https:\/\/thumbor.prod.vidiocdn.com\/VwLax_3FLOGmoPIHy8BVAXrP8QU=\/296x166\/filters:quality(75)\/vidio-web-prod-livestreaming\/uploads\/livestreaming\/image\/783\/tvone-e53f94.jpg",
+        "link": "https:\/\/anevia114.mncnow.id\/live\/eds\/TVOne\/sa_dash_vmx\/TVOne.mpd",
+        "referer": "https:\/\/www.visionplus.id\/",
+        "siaran": "#TV ONE",
+        "type": "mpd",
+        "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko\/20100101 Firefox\/90.0",
+        "widevine": "widevine",
+        "epg": "indonesia",
+        "channelid": "tvOne.id"
+    },
+    {
+        "drmserver": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh",
+        "gambar": "https:\/\/thumbor.prod.vidiocdn.com\/VV7jHOHeLHoq_NZHZDz9PZCiA60=\/296x166\/filters:quality(75)\/vidio-web-prod-livestreaming\/uploads\/livestreaming\/image\/6441\/tvri-tv-stream-f6cbb3.jpg",
+        "link": "https:\/\/anevia114.mncnow.id\/live\/eds\/PemersatuBangsa\/sa_dash_vmx\/PemersatuBangsa.mpd",
+        "referer": "https:\/\/www.visionplus.id\/",
+        "siaran": "#TVRI",
+        "type": "mpd",
+        "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko\/20100101 Firefox\/90.0",
+        "widevine": "widevine",
+        "epg": "indonesia",
+        "channelid": "TVRI.id"
+    },
+    {
+        "drmserver": "26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5",
+        "gambar": "https:\/\/thumbor.prod.vidiocdn.com\/LjiAATW1b1LbCiP_gthJ6KmdodI=\/296x166\/filters:quality(75)\/vidio-web-prod-livestreaming\/uploads\/livestreaming\/image\/734\/trans7-tv-stream-b793ab.jpg",
+        "link": "https:\/\/anevia114.mncnow.id\/live\/eds\/Trans7-2\/sa_dash_vmx\/Trans7-2.mpd",
+        "referer": "https:\/\/www.visionplus.id\/",
+        "siaran": "#Trans 7",
+        "type": "mpd",
+        "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko\/20100101 Firefox\/90.0",
+        "widevine": "clearkey",
+        "epg": "indonesia",
+        "channelid": "Trans7.id"
+    },
+    {
+        "drmserver": "334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d",
+        "gambar": "https:\/\/thumbor.prod.vidiocdn.com\/7ME6x7fuiUSbjEsoPBeayN77fdE=\/296x166\/filters:quality(75)\/vidio-web-prod-livestreaming\/uploads\/livestreaming\/image\/733\/trans-tv-stream-7ab79a.jpg",
+        "link": "https:\/\/anevia114.mncnow.id\/live\/eds\/TransTV-2\/sa_dash_vmx\/TransTV-2.mpd",
+        "referer": "https:\/\/www.visionplus.id\/",
+        "siaran": "#Trans TV",
+        "type": "mpd",
+        "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko\/20100101 Firefox\/90.0",
+        "widevine": "clearkey",
+        "epg": "indonesia",
+        "channelid": "TransTV.id"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/raw.githubusercontent.com\/SiANJINGmauNyuri\/logo\/main\/lokal\/inews.png",
+        "link": "http:\/\/nxanv-live-cdn.mncnow.id\/live\/eds\/inews-hdd\/sa_hls\/inews-hdd.m3u8",
+        "referer": "https:\/\/www.visionplus.id\/",
+        "siaran": "#iNews",
+        "type": "mpd",
+        "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko\/20100101 Firefox\/90.0",
+        "widevine": "",
+        "epg": "indonesia",
+        "channelid": "iNews.id"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQMvYpC3swe8G5eRojMPDMqawQJKauW_5lnVQ&usqp=CAU",
+        "link": "https:\/\/h1.intechmedia.net\/intech\/ch65.m3u8",
+        "referer": "",
+        "siaran": "JITV Jogja",
+        "type": "mpd",
+        "useragent": "ExoPlayer",
+        "widevine": "",
+        "ads": "false"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/i.postimg.cc\/NfHXZBLV\/JTV.png",
+        "link": "https:\/\/anevia114.mncnow.id\/live\/eds\/JTV\/sa_hls\/JTV.m3u8",
+        "referer": "https:\/\/www.visionplus.id\/",
+        "siaran": "JTV JATIM",
+        "type": "mpd",
+        "useragent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko\/20100101 Firefox\/90.0",
+        "widevine": "",
+        "ads": "false"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT1V2ODwbsvOduIOjJOIyB0foQAVopUwxQq4w&usqp=CAU",
+        "link": "https:\/\/re1.siar.us\/madutv\/hd720\/chunks.m3u8",
+        "referer": "",
+        "siaran": "Madu TV",
+        "type": "mpd",
+        "useragent": "",
+        "widevine": "",
+        "ads": "false"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/github.com\/Demila-rumah-jilbab\/furqantv\/raw\/main\/medstv.jpg",
+        "link": "https:\/\/h1.intechmedia.net\/intech\/ch23.m3u8",
+        "referer": "",
+        "siaran": "MEDS TV ACEH",
+        "type": "mpd",
+        "useragent": "",
+        "widevine": "",
+        "ads": "false"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS4l0Xj271NW3uLEeD3pNXFM8ueCj-RXmsUoQ&usqp=CAU",
+        "link": "https:\/\/inspiratv.siar.us\/inspiratv\/live\/playlist.m3u8",
+        "referer": "",
+        "siaran": "Inspira TV",
+        "type": "mpd",
+        "useragent": "",
+        "widevine": "",
+        "ads": "false"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTvuZ4PyCcvgZ6faUERr6CLhEFLNHdE-DQsQQ&usqp=CAU",
+        "link": "https:\/\/v6.siar.us\/pujatv\/live\/chunks.m3u8",
+        "referer": "",
+        "siaran": "Puja TV",
+        "type": "mpd",
+        "useragent": "",
+        "widevine": "",
+        "ads": "false"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTTgBrURQXwDY7TdFyH6iKhNcGmfq_IkAnbKQ&usqp=CAU",
+        "link": "https:\/\/v2.siar.us\/tatv\/live.sdp\/playlist.m3u8",
+        "referer": "",
+        "siaran": "TATV",
+        "type": "mpd",
+        "useragent": "",
+        "widevine": "",
+        "ads": "false"
+    },
+    {
+        "drmserver": "",
+        "gambar": "https:\/\/i.ibb.co\/3rmyLKH\/20230603-122102.jpg",
+        "link": "https:\/\/raw.githubusercontent.com\/thefirefox12537\/streams\/7247bc5a455349aa5c3b94cb19f08c47548fb1f2\/jowo_playback.m3u8",
+        "referer": "",
+        "siaran": "Jowo Channel",
+        "type": "mpd",
+        "useragent": "",
+        "widevine": "",
+        "ads": "false"
+    },
+    {
+        "siaran": "tes",
+        "link": "",
+        "gambar": "",
+        "drmserver": "",
+        "widevine": "",
+        "referer": "",
+        "useragent": "",
+        "type": "",
+        "exthttp": "yaaa{}"
+    },
+    {
+        "siaran": "tess",
+        "link": "",
+        "gambar": "",
+        "drmserver": "",
+        "widevine": "",
+        "referer": "",
+        "useragent": "",
+        "type": "",
+        "exthttp": ""
+    },
+    {
+        "siaran": "tes3",
+        "link": "",
+        "gambar": "",
+        "drmserver": "",
+        "widevine": "",
+        "referer": "",
+        "useragent": "",
+        "type": "",
+        "exthttp": ""
+    }
+]
