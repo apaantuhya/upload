@@ -146,27 +146,5 @@
         "useragent": "",
         "widevine": "",
         "ads": "false"
-    },
-    {
-        "siaran": "tes",
-        "link": "",
-        "gambar": "",
-        "drmserver": "",
-        "widevine": "",
-        "referer": "",
-        "useragent": "",
-        "type": "",
-        "exthttp": "yaaa{}"
-    },
-    {
-        "siaran": "tess",
-        "link": "",
-        "gambar": "",
-        "drmserver": "",
-        "widevine": "",
-        "referer": "",
-        "useragent": "",
-        "type": "",
-        "exthttp": ""
     }
 ]
